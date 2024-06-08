@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/View/Makasi.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/DAOInterface/IDAOPasien.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/View/Daftar.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/View/JadwalDokterUmum.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/View/Utama.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Model/Dokter.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Helper/KoneksiDB.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Model/TabelModelDokterUmum.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/DAOInterface/IDAOUser.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Controller/ControllerUser.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/DAO/DAOPasien.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/View/SignUp.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Controller/ControllerPasien.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Model/TabelDaftarKonf.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/View/Konfirmasi.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Controller/ControllerDokter.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Model/User.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/DAO/DAOUser.java</file>
+            <file>file:/C:/Users/ASUS%20Vivobook/Documents/PBO/NETBEANS/crud_mahasiswa/ProjekPBO/src/Model/Pasien.java</file>
+        </group>
+    </open-files>
+</project-private>
